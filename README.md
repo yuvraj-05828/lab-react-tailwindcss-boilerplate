@@ -14,8 +14,6 @@ Once the setup is ready, then try to create a webpage as shown below:
 
 ![Reference Image](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/tailwindcss-react.png)
 
-[Link for the image used in the refernce website above](
-![Logo-nav](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
-)
+[Link for the image used in the refernce website above](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/Kalvium-Logo.png)
 
 Happy Coding ❤️!
