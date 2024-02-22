@@ -1,0 +1,23 @@
+.card {
+    max-width: 20rem;
+    margin: 0 auto;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    margin-bottom: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+.card-image {
+    width: 100%;
+}
+.card-content {
+    padding: 1.5rem;
+}
+.card-title {
+    font-weight: bold;
+    font-size: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+.card-description {
+    color: #808080;
+    font-size: 0.875rem;
+}

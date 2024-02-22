@@ -1,0 +1,50 @@
+.navbox {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    background-color: #d65e49;
+    padding: 1.5rem;
+}
+.logo {
+    flex: 1;
+    display: flex;
+    align-items: center;
+}
+.logo span {
+    color: white;
+    font-weight: 600;
+    font-size: 1.25rem;
+}
+.menu {
+    /* flex: 2; */
+    display: flex;
+    justify-content: start;
+    margin-right: 60rem;
+}
+.menu a {
+    font-size: 0.875rem;
+    color: #81e6d9;
+    text-decoration: none;
+    margin-right: 1rem;
+    transition: color 0.3s ease-in-out;
+}
+.menu a:hover {
+    color: #fff;
+}
+.login-btn {
+    flex: 0.8; 
+}
+.login-link {
+    display: inline-block;
+    font-size: 0.875rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid #fff;
+    border-radius: 0.25rem;
+    color: #fff;
+    text-decoration: none;
+}
+.login-link:hover {
+    background-color: #fff;
+    color: #008080;
+}
